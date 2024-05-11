@@ -43,9 +43,8 @@ Probabilidade de ser uma foto: 20%
 Probabilidade de ser arte original: 50%
 Probabilidade de ser arte gerada por IA: 30%
 
-    
 
-Use code with caution.
+Use com cautela.
 Observações:
 
     As probabilidades fornecidas são estimativas e podem não ser totalmente precisas.
@@ -57,18 +56,10 @@ Observações:
 Contribuições:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com suas sugestões de melhorias ou correções de bugs.
-Licença:
 
-MIT
 
 Lembre-se de:
 
-    Substituir main.py pelo nome do seu arquivo principal.
+    Substituir o GOOGLE_API_KEY pela sua chave.
 
-    Adicionar um arquivo requirements.txt com as bibliotecas necessárias.
-
-    Incluir instruções específicas sobre a configuração da API do Google AI Studio.
-
-    Ajustar a seção "Exemplo de uso" para refletir o formato real da saída do seu programa.
-
-Espero que este modelo ajude você a criar um README informativo para seu projeto! 😊
+    Baixar imagens no seu dispositivo para serem usados no programa.
